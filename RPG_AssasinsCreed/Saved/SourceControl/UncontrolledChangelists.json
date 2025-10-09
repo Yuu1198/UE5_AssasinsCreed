@@ -6,17 +6,20 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/nadia/source/repos/Yuu1198/UE5_AssasinsCreed/RPG_AssasinsCreed/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/nadia/source/repos/Yuu1198/UE5_AssasinsCreed/RPG_AssasinsCreed/Content/Characters/RPG_Character/Animations/Crouch_Idle.uasset",
-				"C:/Users/nadia/source/repos/Yuu1198/UE5_AssasinsCreed/RPG_AssasinsCreed/Content/Characters/RPG_Character/Animations/Crouh_Walk.uasset",
-				"C:/Users/nadia/source/repos/Yuu1198/UE5_AssasinsCreed/RPG_AssasinsCreed/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset",
-				"C:/Users/nadia/source/repos/Yuu1198/UE5_AssasinsCreed/RPG_AssasinsCreed/Content/Characters/RPG_Character/Animations/Idle_Break.uasset",
 				"C:/Users/nadia/source/repos/Yuu1198/UE5_AssasinsCreed/RPG_AssasinsCreed/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
 				"C:/Users/nadia/source/repos/Yuu1198/UE5_AssasinsCreed/RPG_AssasinsCreed/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
 				"C:/Users/nadia/source/repos/Yuu1198/UE5_AssasinsCreed/RPG_AssasinsCreed/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
 				"C:/Users/nadia/source/repos/Yuu1198/UE5_AssasinsCreed/RPG_AssasinsCreed/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
 				"C:/Users/nadia/source/repos/Yuu1198/UE5_AssasinsCreed/RPG_AssasinsCreed/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
 				"C:/Users/nadia/source/repos/Yuu1198/UE5_AssasinsCreed/RPG_AssasinsCreed/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
-				"C:/Users/nadia/source/repos/Yuu1198/UE5_AssasinsCreed/RPG_AssasinsCreed/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/nadia/source/repos/Yuu1198/UE5_AssasinsCreed/RPG_AssasinsCreed/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/nadia/source/repos/Yuu1198/UE5_AssasinsCreed/RPG_AssasinsCreed/Content/Characters/RPG_Character/Animations/Crouched/CrouchedBlendSpace1D.uasset",
+				"C:/Users/nadia/source/repos/Yuu1198/UE5_AssasinsCreed/RPG_AssasinsCreed/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/nadia/source/repos/Yuu1198/UE5_AssasinsCreed/RPG_AssasinsCreed/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/nadia/source/repos/Yuu1198/UE5_AssasinsCreed/RPG_AssasinsCreed/Content/Characters/RPG_Character/Animations/Crouch_Idle.uasset",
+				"C:/Users/nadia/source/repos/Yuu1198/UE5_AssasinsCreed/RPG_AssasinsCreed/Content/Characters/RPG_Character/Animations/Crouh_Walk.uasset",
+				"C:/Users/nadia/source/repos/Yuu1198/UE5_AssasinsCreed/RPG_AssasinsCreed/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset",
+				"C:/Users/nadia/source/repos/Yuu1198/UE5_AssasinsCreed/RPG_AssasinsCreed/Content/Characters/RPG_Character/Animations/Idle_Break.uasset"
 			]
 		}
 	]
